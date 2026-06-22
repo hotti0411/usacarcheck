@@ -1,0 +1,7 @@
+name = "usacarcheck"
+compatibility_date = "2025-01-01"
+
+# Static site: serve the Next.js export in ./out as assets (no Worker script needed).
+[assets]
+directory = "./out"
+not_found_handling = "404-page"
