@@ -11,8 +11,12 @@
 
 import { readFile, writeFile } from "node:fs/promises";
 
-const MAKES = ["Honda", "Toyota", "Ford", "Chevrolet", "Tesla", "Subaru", "Hyundai", "Jeep"];
-const YEARS = [2025, 2026];
+const MAKES = [
+  "Honda", "Acura", "Toyota", "Lexus", "Ford", "Lincoln", "Chevrolet", "GMC", "Buick",
+  "Cadillac", "Ram", "Jeep", "Dodge", "Chrysler", "Tesla", "Nissan", "Subaru", "Mazda",
+  "Mitsubishi", "Hyundai", "Kia", "Genesis", "Volkswagen", "Audi", "BMW", "Mercedes-Benz", "Volvo",
+];
+const YEARS = [2024, 2025, 2026, 2027];
 const DATA_PATH = "./data/vehicles.json";
 
 function slugify(s) {
