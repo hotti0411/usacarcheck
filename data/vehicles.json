@@ -1,0 +1,4728 @@
+[
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Accord",
+    "assembly": "us",
+    "bodyClass": "Sedan",
+    "plants": [
+      "Marysville, OH"
+    ],
+    "note": "Built in Ohio for the U.S. market."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CR-V",
+    "assembly": "mixed",
+    "bodyClass": "SUV",
+    "plants": [
+      "East Liberty, OH",
+      "Greensburg, IN",
+      "Canada"
+    ],
+    "note": "Most U.S.-market CR-Vs are U.S.-built, but some come from Canada. Verify your VIN."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Civic",
+    "assembly": "mixed",
+    "bodyClass": "Sedan",
+    "plants": [
+      "Greensburg, IN",
+      "Alliston, Canada",
+      "Japan"
+    ],
+    "note": "Civic is built in several plants. Eligibility depends on your VIN."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Camry",
+    "assembly": "us",
+    "bodyClass": "Sedan",
+    "plants": [
+      "Georgetown, KY"
+    ],
+    "note": "U.S.-market Camry is assembled in Kentucky."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "RAV4",
+    "assembly": "foreign",
+    "bodyClass": "SUV",
+    "plants": [
+      "Japan",
+      "Woodstock, Canada"
+    ],
+    "note": "RAV4 sold in the U.S. is generally assembled in Japan or Canada — typically not eligible."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Tundra",
+    "assembly": "us",
+    "bodyClass": "Pickup",
+    "plants": [
+      "San Antonio, TX"
+    ],
+    "note": "Built in Texas."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Tacoma",
+    "assembly": "mixed",
+    "bodyClass": "Pickup",
+    "plants": [
+      "San Antonio, TX",
+      "Guanajuato, Mexico"
+    ],
+    "note": "Built in both the U.S. and Mexico — check your VIN."
+  },
+  {
+    "year": 2026,
+    "make": "Tesla",
+    "model": "Model 3",
+    "assembly": "us",
+    "bodyClass": "Sedan",
+    "plants": [
+      "Fremont, CA"
+    ],
+    "note": "U.S.-market Model 3 is built in California."
+  },
+  {
+    "year": 2026,
+    "make": "Tesla",
+    "model": "Model Y",
+    "assembly": "us",
+    "bodyClass": "SUV",
+    "plants": [
+      "Fremont, CA",
+      "Austin, TX"
+    ],
+    "note": "Built in California and Texas."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "F-150",
+    "assembly": "us",
+    "bodyClass": "Pickup",
+    "plants": [
+      "Dearborn, MI",
+      "Kansas City, MO"
+    ],
+    "note": "Built in Michigan and Missouri."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Mustang",
+    "assembly": "us",
+    "bodyClass": "Coupe",
+    "plants": [
+      "Flat Rock, MI"
+    ],
+    "note": "Built in Michigan."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Maverick",
+    "assembly": "foreign",
+    "bodyClass": "Pickup",
+    "plants": [
+      "Hermosillo, Mexico"
+    ],
+    "note": "Assembled in Mexico — typically not eligible."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "assembly": "us",
+    "bodyClass": "Coupe",
+    "plants": [
+      "Bowling Green, KY"
+    ],
+    "note": "Built in Kentucky."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Silverado",
+    "assembly": "mixed",
+    "bodyClass": "Pickup",
+    "plants": [
+      "Fort Wayne, IN",
+      "Mexico",
+      "Canada"
+    ],
+    "note": "Built across multiple countries — check your VIN."
+  },
+  {
+    "year": 2026,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "assembly": "us",
+    "bodyClass": "SUV",
+    "plants": [
+      "Toledo, OH"
+    ],
+    "note": "Built in Ohio."
+  },
+  {
+    "year": 2026,
+    "make": "Subaru",
+    "model": "Outback",
+    "assembly": "us",
+    "bodyClass": "SUV",
+    "plants": [
+      "Lafayette, IN"
+    ],
+    "note": "Built in Indiana."
+  },
+  {
+    "year": 2026,
+    "make": "BMW",
+    "model": "X5",
+    "assembly": "us",
+    "bodyClass": "SUV",
+    "plants": [
+      "Spartanburg, SC"
+    ],
+    "note": "A German brand built in South Carolina — often surprises buyers."
+  },
+  {
+    "year": 2026,
+    "make": "BMW",
+    "model": "3 Series",
+    "assembly": "foreign",
+    "bodyClass": "Sedan",
+    "plants": [
+      "Germany"
+    ],
+    "note": "Assembled in Germany — typically not eligible."
+  },
+  {
+    "year": 2026,
+    "make": "Mercedes-Benz",
+    "model": "GLE",
+    "assembly": "us",
+    "bodyClass": "SUV",
+    "plants": [
+      "Tuscaloosa, AL"
+    ],
+    "note": "Built in Alabama."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "assembly": "us",
+    "bodyClass": "SUV",
+    "plants": [
+      "Montgomery, AL"
+    ],
+    "note": "Built in Alabama."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Camry",
+    "assembly": "us",
+    "bodyClass": "Sedan",
+    "plants": [
+      "Georgetown, KY"
+    ],
+    "note": "U.S.-market Camry is assembled in Kentucky."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "F-150",
+    "assembly": "us",
+    "bodyClass": "Pickup",
+    "plants": [
+      "Dearborn, MI",
+      "Kansas City, MO"
+    ],
+    "note": "Built in Michigan and Missouri."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Accord",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Civic",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Pilot",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CR-V",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Ridgeline",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Odyssey",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Gold Wing",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Metropolitan",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "NPS50 (Ruckus)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Elite 80",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Elite 50",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Pacific Coast",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Hawk GT",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CB-1",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Elite 250",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Tourist Trophy",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "NS50F",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "NX250",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "NX125",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "RC30",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "XL600V",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Transalp",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Passport",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "HR-V",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CR250R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CR125R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "XR250R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "TRX90X",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "XR600R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "NC750X",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CBR1000F",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "VT750 (Shadow Phantom 750)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Nighthawk 750",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CR80R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "XR80R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CR500R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Z50R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CB125",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Fireblade",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "SXS1000M (Pioneer 1000)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "SXS700M (Pioneer 700)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Trail125",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CRF300L",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Monkey",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Civic Si",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Navi",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "PCX",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "SXS520M (Pioneer 520)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Civic Type R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "XR150L",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "SCL500",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "ADV160",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Prologue",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CRF125F",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CRF150R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CRF250R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CRF50F",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CRF110F",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CRF450R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CRF250F",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "XR650L",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CBR600RR",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CBR500R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CB500F",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CBR1000RR",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CB300F",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CB300R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CBR650R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CB650R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "NX500",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "DAX 125",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Africa Twin",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Fury",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "NT1100",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Giorno",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Foreman",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Rubicon",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Rancher",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Recon",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Rebel 1100",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Rebel 300",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Rebel 500",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Gold Wing Tour",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Grom",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "Africa Twin Adventure Sports",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CBR600F",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "VTR250 (Interceptor 250)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "VF750 (Interceptor 750)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Honda",
+    "model": "CB1000 Hornet",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Corolla",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Prius",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Highlander",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "4Runner",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "RAV4",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Tacoma",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Yaris",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Tundra",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Sienna",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Sequoia",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Venza",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "FCHV-adv",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Celica",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Supra",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Paseo",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Mirai",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "C-HR",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Prius Prime (PHEV)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "RAV4 Prime (PHEV)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Corolla Cross",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "GR86",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "bZ4X",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Crown",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "GR Corolla",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Grand Highlander",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Toyota",
+    "model": "Crown Signia",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Affordable Aluminum",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Affordable Trailers",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Travel Park",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Bradford #1",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Bradford Built",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "CRANFORD RADIATOR INC.",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Eagle Ford Tanks & Trailers LLC",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Focus",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Mustang",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Edge",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Escape",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Expedition",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Explorer",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Flex",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Ranger",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "F-250",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "F-350",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "F-450",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "F-550",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "F-650",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "F-750",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Transit Connect",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "E-350",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "E-450",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Motorhome Chassis",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Fiesta",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Commercial Chassis",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Transit",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Bronco",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "F-600",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "'34",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Ecosport",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Bronco Sport",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Mustang Mach-E",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Maverick",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "GT MKII",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Mustang GTD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Fords Trailer Sales",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Lyford Overland",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Medford Steel",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Milford Pipe & Supply",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Stafford's Trailers",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Malibu Sedan",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Cordova Sedan",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Classic Sedan",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Ford",
+    "model": "Swinford Mfg",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Aveo",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Caprice Police Vehicle",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Cruze",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Impala",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Sonic",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Spark",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "SS",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Volt",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Captiva Sport",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Express",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Orlando",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Silverado",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Suburban",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Traverse",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Geo Prizm",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Colorado",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Trailblazer",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "W4",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "W5",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Trax",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Blazer",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "3500/4500",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "4500HD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "4500XD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "5500XD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "W7",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Bolt Incomplete",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "6500XD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Silverado HD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Silverado LD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "7500XD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Onix",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Silverado LTD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "5500HG",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "5500XG",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Traverse Limited",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "BrightDrop",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "Suburban HD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Tesla",
+    "model": "Model S",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Tesla",
+    "model": "Model X",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Tesla",
+    "model": "Model 3",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Tesla",
+    "model": "Model Y",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Tesla",
+    "model": "Semi",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Tesla",
+    "model": "Cybertruck",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Subaru",
+    "model": "Legacy",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Subaru",
+    "model": "Outback",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Subaru",
+    "model": "Forester",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Subaru",
+    "model": "Impreza",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Subaru",
+    "model": "WRX",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Subaru",
+    "model": "BRZ",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Subaru",
+    "model": "Ascent",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Subaru",
+    "model": "Solterra",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Accent",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Kona",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Santa Fe XL",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Nexo",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Palisade",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Venue",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Santa Cruz",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Ioniq 5",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Elantra N",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Xcient",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Ioniq 6",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Kona N",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Ioniq 5 N",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Hyundai Steel Industries, Inc.",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Hyundai",
+    "model": "Hyundai Translead Trailers",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Jeep",
+    "model": "Compass",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Jeep",
+    "model": "Renegade",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Jeep",
+    "model": "Grand Wagoneer",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Jeep",
+    "model": "Wagoneer",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Jeep",
+    "model": "Gladiator",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Jeep",
+    "model": "Grand Cherokee L",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Jeep",
+    "model": "Wagoneer L",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Jeep",
+    "model": "Grand Wagoneer L",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Jeep",
+    "model": "Wagoneer S",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Pilot",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Ridgeline",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Odyssey",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Gold Wing",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Metropolitan",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Elite 80",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Elite 50",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Pacific Coast",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Hawk GT",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CB-1",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Elite 250",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Tourist Trophy",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "NS50F",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "NX250",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "NX125",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "RC30",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "XL600V",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Transalp",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Prelude",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Passport",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "HR-V",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CR250R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CR125R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "XR250R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "TRX90X",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "XR600R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "FourTrax Rancher",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "FourTrax Foreman",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "NC750X",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "TRX250X",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "FourTrax Recon",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CBR1000F",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CR80R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "XR80R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CR500R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Z50R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CB125",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Fireblade",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "FourTrax Foreman Rubicon",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "SXS1000M (Pioneer 1000)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "SXS700M (Pioneer 700)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CB1000F",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Trail125",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CRF300L",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Monkey",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Civic Si",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Navi",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "PCX",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "SXS520M (Pioneer 520)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Civic Type R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "XR150L",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "SCL500",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "ADV160",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Prologue",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CRF125F",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CRF150R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CRF250R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CRF50F",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CRF110F",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CRF450R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CRF450X",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CRF450RL",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CBR600RR",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CBR500R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CBR1000RR",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CB300R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CBR650R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CB650R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "NX500",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "DAX 125",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Africa Twin",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "NT1100",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Foreman",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Rubicon",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Rancher",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Rebel 1100",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Rebel 300",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Rebel 500",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Gold Wing Tour",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Grom",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Africa Twin Adventure Sports",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "SXS1000S (Talon 1000)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CBR600F",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CB500 Hornet",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "VTR250 (Interceptor 250)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "VF750 (Interceptor 750)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Cota 4RT 260R",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Cota 310RR",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CRF300F",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "FourTrax Rubicon",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "CB750 Hornet E-Clutch",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Corolla",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Prius",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Highlander",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "4Runner",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Yaris",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Sienna",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Sequoia",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Venza",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "FCHV-adv",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Celica",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Supra",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Paseo",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Mirai",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "C-HR",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Prius Prime (PHEV)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "RAV4 Prime (PHEV)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Corolla Cross",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "GR86",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Crown",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "GR Corolla",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Grand Highlander",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "Crown Signia",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "bZ",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Toyota",
+    "model": "bZ Woodland",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Affordable Aluminum",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Affordable Trailers",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Travel Park",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Bradford #1",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Bradford Built",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "CRANFORD RADIATOR INC.",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Eagle Ford Tanks & Trailers LLC",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Focus",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Edge",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Escape",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Expedition",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Explorer",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Flex",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Ranger",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "F-250",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "F-350",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "F-450",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "F-550",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "F-650",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "F-750",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Transit Connect",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "E-350",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "E-450",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Motorhome Chassis",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Fiesta",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Commercial Chassis",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Transit",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Bronco",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "F-600",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "'34",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Ecosport",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Bronco Sport",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Mustang Mach-E",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "GT MKII",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Mustang GTD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Fords Trailer Sales",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Lyford Overland",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Medford Steel",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Milford Pipe & Supply",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Stafford's Trailers",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Malibu Sedan",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Cordova Sedan",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Classic Sedan",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Ford",
+    "model": "Swinford Mfg",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Aveo",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Caprice Police Vehicle",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Cruze",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Impala",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Sonic",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Spark",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "SS",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Volt",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Captiva Sport",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Express",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Orlando",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Suburban",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Traverse",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Geo Prizm",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Colorado",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Trailblazer",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "W4",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "W5",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Trax",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Blazer",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "3500/4500",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "4500HD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "4500XD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "5500XD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "W7",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Bolt Incomplete",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "6500XD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Silverado HD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Silverado LD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "7500XD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Onix",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Silverado LTD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "5500HG",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "5500XG",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Traverse Limited",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "BrightDrop",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "Suburban HD",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Tesla",
+    "model": "Model S",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Tesla",
+    "model": "Model X",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Tesla",
+    "model": "Cybertruck",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Tesla",
+    "model": "Cybercab",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Subaru",
+    "model": "Legacy",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Subaru",
+    "model": "Forester",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Subaru",
+    "model": "Impreza",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Subaru",
+    "model": "WRX",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Subaru",
+    "model": "BRZ",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Subaru",
+    "model": "Ascent",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Subaru",
+    "model": "Solterra",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Subaru",
+    "model": "Trailseeker",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Subaru",
+    "model": "Uncharted",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Accent",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Kona",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Santa Fe XL",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Nexo",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Palisade",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Venue",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Santa Cruz",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Ioniq 5",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Elantra N",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Xcient",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Ioniq 6",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Kona N",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Ioniq 5 N",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Ioniq 9",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Ioniq 6 N",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Hyundai Steel Industries, Inc.",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Hyundai Translead Trailers",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Jeep",
+    "model": "Compass",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Jeep",
+    "model": "Renegade",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Jeep",
+    "model": "Grand Wagoneer",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Jeep",
+    "model": "Gladiator",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Jeep",
+    "model": "Grand Cherokee L",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Jeep",
+    "model": "Grand Wagoneer L",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Jeep",
+    "model": "Wagoneer S",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Jeep",
+    "model": "Recon",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  }
+]

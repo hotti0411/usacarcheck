@@ -1,0 +1,33 @@
+name: Update vehicle dataset
+
+# Refreshes data/vehicles.json from the free NHTSA API on a schedule.
+# When it commits a change, Cloudflare Pages (git-connected) auto-rebuilds and redeploys.
+on:
+  schedule:
+    - cron: "0 6 * * 1" # Mondays 06:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci
+      - run: npm run data
+      - name: Commit if dataset changed
+        run: |
+          if [ -n "$(git status --porcelain data/vehicles.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/vehicles.json
+            git commit -m "chore: refresh vehicle dataset from NHTSA"
+            git push
+          else
+            echo "No dataset changes."
+          fi

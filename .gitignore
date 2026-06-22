@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.DS_Store
+*.log
+npm-debug.log*
+
+# local env files only (keep .env.production — it holds the public site URL, not a secret)
+.env*.local
+.env.local
