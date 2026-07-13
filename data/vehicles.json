@@ -25649,5 +25649,14 @@
     "bodyClass": "",
     "plants": [],
     "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2027,
+    "make": "BMW",
+    "model": "M440i",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
   }
 ]
