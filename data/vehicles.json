@@ -25658,5 +25658,23 @@
     "bodyClass": "",
     "plants": [],
     "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Tesla",
+    "model": "Semi",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2027,
+    "make": "Tesla",
+    "model": "Semi",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
   }
 ]
