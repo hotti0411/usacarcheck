@@ -25685,5 +25685,23 @@
     "bodyClass": "",
     "plants": [],
     "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2027,
+    "make": "Audi",
+    "model": "SQ9",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2027,
+    "make": "Volvo",
+    "model": "VNX (4)",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
   }
 ]
