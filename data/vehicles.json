@@ -25865,5 +25865,59 @@
     "bodyClass": "",
     "plants": [],
     "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "3500HG",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2025,
+    "make": "Chevrolet",
+    "model": "4500HG",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Honda",
+    "model": "Ruckus",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "3500HG",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2026,
+    "make": "Chevrolet",
+    "model": "4500HG",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2027,
+    "make": "Honda",
+    "model": "Ruckus",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
   }
 ]
