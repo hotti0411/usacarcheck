@@ -25919,5 +25919,95 @@
     "bodyClass": "",
     "plants": [],
     "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2027,
+    "make": "Honda",
+    "model": "Transalp",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2027,
+    "make": "Honda",
+    "model": "NX500",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2027,
+    "make": "BMW",
+    "model": "X5",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2027,
+    "make": "BMW",
+    "model": "i3",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2027,
+    "make": "BMW",
+    "model": "750e",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2027,
+    "make": "BMW",
+    "model": "740",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2027,
+    "make": "BMW",
+    "model": "iX3",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2027,
+    "make": "BMW",
+    "model": "iX4",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2027,
+    "make": "BMW",
+    "model": "iX5",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
+  },
+  {
+    "year": 2027,
+    "make": "BMW",
+    "model": "M350",
+    "assembly": "mixed",
+    "bodyClass": "",
+    "plants": [],
+    "note": "Assembly varies — verify your exact vehicle with the VIN checker."
   }
 ]
